@@ -3,7 +3,7 @@ Hi 👋 My name is Mayank
 
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA41Ou01pZM8wi4xigSFWKI">
 
-Working on Random Stuff
+Working with Data
 -----------------------
 
 * 🌍  I'm based in Mumbai, India
